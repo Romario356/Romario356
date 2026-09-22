@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Romario | Data Analyst
 
-<!--
-**Romario356/Romario356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Analyst** passionate about turning raw, messy transactional data into clean, interactive dashboards and actionable business strategies. I specialize in optimizing operations, analyzing financial performance, and helping management make data-driven decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Toolkit
+
+* **Data Analysis & Cleaning:** Microsoft Excel (Advanced, Power Query, Dynamic Array Formulas), Google Sheets
+* **Database Management:** SQL (MySQL)
+* **Data Visualization & Business Intelligence:** Power BI (Data Modeling, Star Schema, Advanced DAX)
+* **Version Control & Documentation:** GitHub, Markdown
+
+---
+
+### 📊 Featured Data Projects
+
+#### 🍕 [Operations, Sales & Menu Performance Analysis — Plato's Pizza](https://github.com)
+*Developed an end-to-end analytical framework for a high-volume restaurant utilizing Excel, SQL, and Power BI.*
+* **Data Cleansing:** Handled 49K+ rows of raw transactional data, audited missing values with `COUNTBLANK`, and blended reference tables via relational joins.
+* **Advanced DAX & Modeling:** Built an optimized Star Schema model in Power BI, writing iterative `SUMX` and `RELATED` calculations to track an **Average Order Value (AOV) of \$38.31** and a global annual revenue of **\$817.86K**.
+* **Operational Insights:** Formulated strategic staffing and menu recommendations by exposing critical bimodal daily bottlenecks (12:00 PM production spike representing 6,776 pizzas annually).
+
+---
+
+### 📈 What I'm Focused On
+* Building comprehensive, business-centric data portfolios.
+* Exploring advanced Market Basket Analysis (Up-selling and Cross-selling models).
+* Solving data limitations through rigorous logical and conditional formatting frameworks.
+
+📫 **How to reach me:** [cruzromario356@gmail.com]
